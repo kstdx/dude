@@ -1,0 +1,8 @@
+{
+    "imports": {
+        "server": "https://deno.land/std/http/server.ts",
+        "hono": "https://deno.land/x/hono/mod.ts",
+        "hono/plugin": "https://deno.land/x/hono/middleware.ts",
+        "marked": "https://deno.land/x/markdown@v2.0.0/mod.ts"
+    }
+}
